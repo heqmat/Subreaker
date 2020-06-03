@@ -9,6 +9,7 @@ python subreaker.py -h (Show all paramaters)
 python subreaker.py -d [DOMAIN ADDRESS] (EXAMPLE: facebook.com,twitter.com)
 python subreaker.py -d google.com (Example usage)
 python subreaker.py -o (Save output)
+python subreaker.py -d google.com -o google_subdomains.txt [Example usage with "-o" parameter.]
 ```
 ![image](https://user-images.githubusercontent.com/64712867/83640432-c79ef080-a5b4-11ea-9c79-056c2cf6231e.png)
 
