@@ -14,7 +14,7 @@ python subreaker.py -o (Save output)
 
 # This program was written for kali linux. It has been tested and worked with windows OS. however, it can sometimes give errors or display complex subdomains.
 
-# -------------------------------------------------------------------------------------------------------------
+# ----------------------------------------------------------------------
 
 # Usage of Subreaker for attacking targets without prior mutual consent is illegal. 
 # It is the end user's responsibility to obey all applicable local, state and federal laws. 
