@@ -5,6 +5,8 @@ Subreaker is an active information gathering tool. With this tool, subdomains ca
 # How to install Subreaker?
 Clone subreaker's repository from remote server <br>
 `git clone https://github.com/heqmat/subreaker.git` Example
+If you already installed setup.sh file you can write just like that.
+`subreaker -d kali.org  `
 # How to use Subreaker?
 ```
 python subreaker.py -h (Show all paramaters)
